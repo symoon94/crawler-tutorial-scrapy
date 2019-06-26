@@ -5,7 +5,7 @@ These crawlers are for scraping a [quote site](http://quotes.toscrape.com/) and 
 
 ## Installation
 
-To install Scrapy using [conda](https://www.accordbox.com/blog/scrapy-tutorial-4-how-install-scrapy-windows//), run:
+To install Scrapy using [conda](https://www.accordbox.com/blog/scrapy-tutorial-4-how-install-scrapy-windows/), run:
 
     $ conda install -c conda-forge scrapy
 
