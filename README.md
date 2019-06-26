@@ -1,6 +1,6 @@
 # crawler-tutorial
 
-This short programs are crawlers scraping a quote site and a site of the CoreTech company.
+This short programs are crawlers scraping a [quote site](http://quotes.toscrape.com/) and a site of the [CoreTech](http://coretech21c.co.kr/) company.
 
 
 ## Installation
