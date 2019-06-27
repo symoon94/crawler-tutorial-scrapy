@@ -16,7 +16,7 @@ Alternatively, if you’re already familiar with installation of Python packages
 
 ## Usage
 
-To scrape the site and store the data:
+To scrape the site and save the data:
 
     $ cd scrapy
     $ scrapy crawl quote -o quote.json
