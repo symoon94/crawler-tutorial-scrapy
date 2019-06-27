@@ -1,4 +1,4 @@
-# crawler-tutorial
+# crawler-tutorial-scrapy
 
 These crawlers are for scraping a [quote site](http://quotes.toscrape.com/) and a site of the [CoreTech](http://coretech21c.co.kr/) company.
 
