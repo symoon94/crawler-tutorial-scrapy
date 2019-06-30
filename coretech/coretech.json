@@ -1,67 +1,400 @@
+// 20190701062925
+// http://0.0.0.0:8000/spiders/result.json
+
 [
-{"name": "CTN-100"},
-{"\uc801\uc6a9\ubd84\uc57c": ["Palm oil (Eddible oil)"]},
-{"\ud2b9\uc9d5": ["- \ub192\uc740 \ubc18\uc751\uc131", "- \ubd84\uc0b0\ub825\uc774 \uc88b\uc74c", "- \uc5ec\uacfc\uc131\uc774 \uc6b0\uc218\ud568", "- \ub192\uc740 \uc548\uc815\uc131"]},
-{"\uc801\uc6a9\ubd84\uc57c": ["- \ucd09\ub9e4 \uc218\uc18c\ud654 \uacf5\uc815"]},
-{"\uc81c\ud488\ud615\ud0dc": ["\ud3a0\ub81b(Pellet)"]},
-{"name": "Ni catalyst (Decomposition of NH\u2083)"},
-{"\uc81c\uac70\ub300\uc0c1\uac00\uc2a4": ["- NH\u2083"]},
-{"\ud2b9\uc9d5": ["- \uc554\ubaa8\ub2c8\uc544 100% \ubd84\ud574 \uc131\ub2a5", "- \uc554\ubaa8\ub2c8\uc544\ub85c \ubd80\ud130 \uc218\uc18c \uc0dd\uc0b0 \uac00\ub2a5", "- \ub192\uc740 \ucd09\ub9e4 \uc218\uba85"]},
-{"\uc801\uc6a9\ubd84\uc57c": ["- \ud654\ud559 \uacf5\uc7a5", "- \uc218\uc18c\ud654 \uacf5\uc815"]},
-{"\uc81c\ud488\ud615\ud0dc": ["Pellet"]},
-{"name": "Pd catalyst"},
-{"\ucd09\ub9e4\ubc18\uc751": ["Hydrogenation reaction, Gas purifier"]},
-{"\ud2b9\uc9d5": ["- Pd \ub2f4\uc9c0 \ub450\uaed8 \uc870\uc808 \uac00\ub2a5", "- \ub192\uc740 Pd \ucd09\ub9e4 \uc131\ub2a5", "- \ub192\uc740 \ucd09\ub9e4 \uc218\uba85"]},
-{"\uc801\uc6a9\ubd84\uc57c": ["- \ud654\ud559 \uacf5\uc7a5", "- \uc218\uc18c\ud654 \uacf5\uc815"]},
-{"\uc81c\ud488\ud615\ud0dc": ["Pellet"]},
-{"name": "Ru catalyst"},
-{"\ucd09\ub9e4\ubc18\uc751": ["Hydrogenation reaction"]},
-{"\ud2b9\uc9d5": ["- Ru \ud568\ub7c9 \uc870\uc808 \uac00\ub2a5", "- \ub192\uc740 Ru \ucd09\ub9e4 \uc131\ub2a5", "- \ub192\uc740 \ucd09\ub9e4 \uc218\uba85"]},
-{"\uc801\uc6a9\ubd84\uc57c": ["- \ud654\ud559 \uacf5\uc7a5", "- \uc218\uc18c\ud654 \uacf5\uc815"]},
-{"\uc81c\ud488\ud615\ud0dc": ["Pellet"]},
-{"name": "Guard catalyst"},
-{"\uc81c\uac70\ub300\uc0c1\uac00\uc2a4": ["Sulfur (SO\u2082, SO\u2083 \ub4f1)"]},
-{"\ud2b9\uc9d5": ["- \ub0ae\uc740 \uc628\ub3c4\uc5d0\uc11c \ud0c1\uc6d4\ud55c \uc131\ub2a5", "- 100% \ub192\uc740 \ud6a8\uc728", "- \ub192\uc740 \ucd09\ub9e4 \uc218\uba85"]},
-{"\uc801\uc6a9\ubd84\uc57c": ["- \ud654\ud559 \uacf5\uc7a5", "- \ud0c8\ud669 \uacf5\uc815"]},
-{"\uc81c\ud488\ud615\ud0dc": ["Pellet"]},
-{"name": "PFC (perfluoro-compound) catalyst"},
-{"\uc81c\uac70\ub300\uc0c1\uac00\uc2a4": ["PFCs (CF\u2084, NF\u2083, SF\u2084 \ub4f1)"]},
-{"\ud2b9\uc9d5": ["- \uc9c0\uad6c \uc628\ub09c\ud654 \ubc30\ucd9c\uac00\uc2a4 \uc81c\uac70 (99% \uc774\uc0c1)", "- \ubd88\uc0b0 \uc800\ud56d\ub825 \ud0c1\uc6d4", "- \ub192\uc740 \uc5f4 \uc548\uc815\uc131", "- \uc720\uc9c0 \uad00\ub9ac \uc6a9\uc774"]},
-{"\uc801\uc6a9\ubd84\uc57c": ["- \ubc18\ub3c4\uccb4 \uc0dd\uc0b0 \uacf5\uc815", "- LCD \uc81c\uc870 \uacf5\uc815"]},
-{"\uc81c\ud488\ud615\ud0dc": ["\ud3a0\ub81b(Pellet), \uad6c\ud615(Ball type) 2 ~ 5 mm"]},
-{"name": "CT-150"},
-{"\uc81c\uac70\ub300\uc0c1\uac00\uc2a4": ["Cl\u2082, BCl\u2083, HF \ub4f1."]},
-{"\ud2b9\uc9d5": ["- \ud654\ud559\ubc18\uc751\uc744 \uc774\uc6a9\ud558\uc5ec \uc644\ubcbd\ud55c \ucc98\ub9ac", "- \ubd80\uc218\uc801\uc73c\ub85c \ubc1c\uc0dd\ud558\ub294 \uc720\ud574\uac00\uc2a4 \uc5c6\uc74c", "- \uba74\uc18d\ub3c4\uac00 \ud070 \uacbd\uc6b0\uc5d0\ub3c4 \ud0c1\uc6d4\ud55c \uc131\ub2a5\uc744 \ubcf4\uc784", "- \uc7a5\uc2dc\uac04 \uc0ac\uc6a9\uc774 \uac00\ub2a5\ud568"]},
-{"\uc801\uc6a9\ubd84\uc57c": ["- \ubc18\ub3c4\uccb4 \uc0dd\uc0b0 \uacf5\uc7a5", "- \ud654\ud559 \uacf5\uc7a5", "- \ub514\uc2a4\ud50c\ub808\uc774 \uc0dd\uc0b0 \uacf5\uc7a5"]},
-{"\uc81c\ud488\ud615\ud0dc": ["\ud3a0\ub81b(Pellet), \uad6c\ud615(Ball type) 2 ~ 5 mm"]},
-{"name": "CT-400"},
-{"\uc81c\uac70\ub300\uc0c1\uac00\uc2a4": ["NH\u2083"]},
-{"\ud2b9\uc9d5": ["- \ud654\ud559\ubc18\uc751\uc744 \uc774\uc6a9\ud558\uc5ec \uc644\ubcbd\ud55c \ucc98\ub9ac", "- \ubd80\uc218\uc801\uc73c\ub85c \ubc1c\uc0dd\ud558\ub294 \uc720\ud574\uac00\uc2a4 \uc5c6\uc74c", "- \uba74\uc18d\ub3c4\uac00 \ud070 \uacbd\uc6b0\uc5d0\ub3c4 \ud0c1\uc6d4\ud55c \uc131\ub2a5\uc744 \ubcf4\uc784", "- \uc7a5\uc2dc\uac04 \uc0ac\uc6a9\uc774 \uac00\ub2a5\ud568"]},
-{"\uc801\uc6a9\ubd84\uc57c": ["- \ubc18\ub3c4\uccb4 \uc0dd\uc0b0 \uacf5\uc7a5", "- \ud654\ud559 \uacf5\uc7a5", "- \ub514\uc2a4\ud50c\ub808\uc774 \uc0dd\uc0b0 \uacf5\uc7a5"]},
-{"\uc81c\ud488\ud615\ud0dc": ["\ud3a0\ub81b(Pellet), \uad6c\ud615(Ball type) 2 ~ 5 mm"]},
-{"name": "NF (Non-flammable) \ud761\ucc29\uc81c"},
-{"\uc81c\uac70\ub300\uc0c1\uac00\uc2a4": ["VOCs"]},
-{"name": "High purity NH\u2083"},
-{"\uc21c\ub3c4": ["- 4N ( 99.99%)", "- 5N (99.999%)", "- 6N (99.9999%)", "- 7N (99.99999%)"]},
-{"\ub370\uc774\ud130": ["- \ubd84\uc790\ub7c9 (17.03)", "- \ube44\uc911 (0.7Kg/m\u00b3)", "- \uc99d\uae30\ubc00\ub3c4 (0.59(air=1))", "- CAS NO. (7664-41-7)"]},
-{"\uc6a9\uae30": ["- 47L cylinder", "- Y-cylinder (440L)", "- Ton cylinder (940L)", "- ISO tank", "- Tank rorry- etc"]},
-{"\uaddc\uaca9": ["- H\u2082O", "< 60ppb", "- N\u2082", "< 10ppb", "- CO", "< 10ppb", "- CO\u2082", "< 10ppb", "- As CH\u2084", "< 10ppb", "- H\u2082", "< 10ppb", "- O\u2082 + Ar", "< 10ppb", "* 7N Gas Phase"]},
-{"name": "High purity Cl\u2082"},
-{"\uc21c\ub3c4": ["- 5N (99.999%)", "- 5N5 (99.9995%)"]},
-{"\ub370\uc774\ud130": ["- \ubd84\uc790\ub7c9 (70.906)", "- \ube44\uc911 (1.4kg/m\u00b3)", "- \uc99d\uae30\ubc00\ub3c4 (2.49(air=1))", "- CAS NO. (7782-50-5)"]},
-{"\uc6a9\uae30": ["- 47L cylinder", "- Y-cylinder", "- Ton cylinder"]},
-{"\uaddc\uaca9": ["- H\u2082O", "< 1ppm", "- N\u2082", "< 1ppm", "- CO", "<  0.5ppm", "- CO\u2082", "<  0.5ppm", "- As CH\u2084", "<  0.5ppm", "- H\u2082", "<  0.1ppm", "- O\u2082 + Ar", "<  0.5ppm", "* 5N5"]},
-{"\ud2b9\uc9d5": ["- \ubd88\uc5d0 \ubd99\uc9c0 \uc54a\uc73c\uba70 \ud3ed\ubc1c \uc704\ud5d8\uc774 \uc5c6\uc74c", "- \ub113\uc740 \ube44\ud45c\uba74\uc801 (BET > 500 m2/g)", "- \uc5ec\ub7ec\uac00\uc9c0 \ud06c\uae30\uc758 \ud3a0\ub81b \ubc0f \uad6c\ud615 \ub4f1 \ub2e4\uc591\ud55c \ud615\ud0dc \uc801\uc6a9\uac00\ub2a5"]},
-{"\uc801\uc6a9\ubd84\uc57c": ["- \ud654\ud559 \uacf5\uc7a5", "- \ud398\uc778\ud2b8 \uc81c\uc870 \ud68c\uc0ac", "- \ubc18\ub3c4\uccb4, \ud3c9\ud310\ud654\uba74 (OLED) \uc81c\uc870 \uacf5\uc815"]},
-{"\uc81c\ud488\ud615\ud0dc": ["\ud3a0\ub81b(Pellet), \uad6c\ud615(Ball type) 2 ~ 5 mm"]},
-{"name": "CTO honeycomb catalyst"},
-{"\uc81c\uac70\ub300\uc0c1\uac00\uc2a4": ["\uc720\uae30\ud654\ud569\ubb3c"]},
-{"\ud2b9\uc9d5": ["- \uc800\uc628\uc5d0\uc11c \ud0c1\uc6d4\ud55c \uc131\ub2a5 ( > 325oC)", "- \ub192\uc740 \ucd09\ub9e4 \uc218\uba85", "- \ub192\uc740 \uc548\uc815\uc131"]},
-{"\uc801\uc6a9\ubd84\uc57c": ["- \ud654\ud559 \uacf5\uc7a5", "- \ubc18\ub3c4\uccb4, \ud3c9\ud310\ud654\uba74 (OLED) \uc81c\uc870 \uacf5\uc815"]},
-{"\uc81c\ud488\ud615\ud0dc": ["Honeycomb, Pellet"]},
-{"name": "CT-570"},
-{"\uc81c\uac70\ub300\uc0c1\uac00\uc2a4": ["PH\u2083 AsH\u2083"]},
-{"\ud2b9\uc9d5": ["- \ud654\ud559\ubc18\uc751\uc744 \uc774\uc6a9\ud558\uc5ec \uc644\ubcbd\ud55c \ucc98\ub9ac", "- \ubd80\uc218\uc801\uc73c\ub85c \ubc1c\uc0dd\ud558\ub294 \uc720\ud574\uac00\uc2a4 \uc5c6\uc74c", "- \uba74\uc18d\ub3c4\uac00 \ud070 \uacbd\uc6b0\uc5d0\ub3c4 \ud0c1\uc6d4\ud55c \uc131\ub2a5\uc744 \ubcf4\uc784", "- \uc7a5\uc2dc\uac04 \uc0ac\uc6a9 \uac00\ub2a5"]},
-{"\uc801\uc6a9\ubd84\uc57c": ["- \ubc18\ub3c4\uccb4 \uc0dd\uc0b0 \uacf5\uc7a5"]},
-{"\uc81c\ud488\ud615\ud0dc": ["\ud3a0\ub81b(Pellet)"]}
+  {
+    "name": "CTN-100",
+    "적용분야": [
+      "Palm oil (Eddible oil)"
+    ]
+  },
+  {
+    "name": "CTN-100",
+    "특징": [
+      "- 높은 반응성",
+      "- 분산력이 좋음",
+      "- 여과성이 우수함",
+      "- 높은 안정성"
+    ]
+  },
+  {
+    "name": "CTN-100",
+    "적용분야": [
+      "- 촉매 수소화 공정"
+    ]
+  },
+  {
+    "name": "CTN-100",
+    "제품형태": [
+      "펠렛(Pellet)"
+    ]
+  },
+  {
+    "name": "Ni catalyst (Decomposition of NH₃)",
+    "제거대상가스": [
+      "- NH₃"
+    ]
+  },
+  {
+    "name": "Ni catalyst (Decomposition of NH₃)",
+    "특징": [
+      "- 암모니아 100% 분해 성능",
+      "- 암모니아로 부터 수소 생산 가능",
+      "- 높은 촉매 수명"
+    ]
+  },
+  {
+    "name": "Ni catalyst (Decomposition of NH₃)",
+    "적용분야": [
+      "- 화학 공장",
+      "- 수소화 공정"
+    ]
+  },
+  {
+    "name": "Ni catalyst (Decomposition of NH₃)",
+    "제품형태": [
+      "Pellet"
+    ]
+  },
+  {
+    "name": "Pd catalyst",
+    "촉매반응": [
+      "Hydrogenation reaction, Gas purifier"
+    ]
+  },
+  {
+    "name": "High purity NH₃",
+    "순도": [
+      "- 4N ( 99.99%)",
+      "- 5N (99.999%)",
+      "- 6N (99.9999%)",
+      "- 7N (99.99999%)"
+    ]
+  },
+  {
+    "name": "High purity NH₃",
+    "데이터": [
+      "- 분자량 (17.03)",
+      "- 비중 (0.7Kg/m³)",
+      "- 증기밀도 (0.59(air=1))",
+      "- CAS NO. (7664-41-7)"
+    ]
+  },
+  {
+    "name": "High purity NH₃",
+    "용기": [
+      "- 47L cylinder",
+      "- Y-cylinder (440L)",
+      "- Ton cylinder (940L)",
+      "- ISO tank",
+      "- Tank rorry- etc"
+    ]
+  },
+  {
+    "name": "High purity NH₃",
+    "규격": [
+      "- H₂O",
+      "< 60ppb",
+      "- N₂",
+      "< 10ppb",
+      "- CO",
+      "< 10ppb",
+      "- CO₂",
+      "< 10ppb",
+      "- As CH₄",
+      "< 10ppb",
+      "- H₂",
+      "< 10ppb",
+      "- O₂ + Ar",
+      "< 10ppb",
+      "* 7N Gas Phase"
+    ]
+  },
+  {
+    "name": "High purity Cl₂",
+    "순도": [
+      "- 5N (99.999%)",
+      "- 5N5 (99.9995%)"
+    ]
+  },
+  {
+    "name": "High purity Cl₂",
+    "데이터": [
+      "- 분자량 (70.906)",
+      "- 비중 (1.4kg/m³)",
+      "- 증기밀도 (2.49(air=1))",
+      "- CAS NO. (7782-50-5)"
+    ]
+  },
+  {
+    "name": "High purity Cl₂",
+    "용기": [
+      "- 47L cylinder",
+      "- Y-cylinder",
+      "- Ton cylinder"
+    ]
+  },
+  {
+    "name": "High purity Cl₂",
+    "규격": [
+      "- H₂O",
+      "< 1ppm",
+      "- N₂",
+      "< 1ppm",
+      "- CO",
+      "<  0.5ppm",
+      "- CO₂",
+      "<  0.5ppm",
+      "- As CH₄",
+      "<  0.5ppm",
+      "- H₂",
+      "<  0.1ppm",
+      "- O₂ + Ar",
+      "<  0.5ppm",
+      "* 5N5"
+    ]
+  },
+  {
+    "name": "CT-150",
+    "제거대상가스": [
+      "Cl₂, BCl₃, HF 등."
+    ]
+  },
+  {
+    "name": "CT-150",
+    "특징": [
+      "- 화학반응을 이용하여 완벽한 처리",
+      "- 부수적으로 발생하는 유해가스 없음",
+      "- 면속도가 큰 경우에도 탁월한 성능을 보임",
+      "- 장시간 사용이 가능함"
+    ]
+  },
+  {
+    "name": "CT-150",
+    "적용분야": [
+      "- 반도체 생산 공장",
+      "- 화학 공장",
+      "- 디스플레이 생산 공장"
+    ]
+  },
+  {
+    "name": "Pd catalyst",
+    "특징": [
+      "- Pd 담지 두께 조절 가능",
+      "- 높은 Pd 촉매 성능",
+      "- 높은 촉매 수명"
+    ]
+  },
+  {
+    "name": "Pd catalyst",
+    "적용분야": [
+      "- 화학 공장",
+      "- 수소화 공정"
+    ]
+  },
+  {
+    "name": "Pd catalyst",
+    "제품형태": [
+      "Pellet"
+    ]
+  },
+  {
+    "name": "Ru catalyst",
+    "촉매반응": [
+      "Hydrogenation reaction"
+    ]
+  },
+  {
+    "name": "Ru catalyst",
+    "특징": [
+      "- Ru 함량 조절 가능",
+      "- 높은 Ru 촉매 성능",
+      "- 높은 촉매 수명"
+    ]
+  },
+  {
+    "name": "Ru catalyst",
+    "적용분야": [
+      "- 화학 공장",
+      "- 수소화 공정"
+    ]
+  },
+  {
+    "name": "Ru catalyst",
+    "제품형태": [
+      "Pellet"
+    ]
+  },
+  {
+    "name": "CT-150",
+    "제품형태": [
+      "펠렛(Pellet), 구형(Ball type) 2 ~ 5 mm"
+    ]
+  },
+  {
+    "name": "CT-400",
+    "제거대상가스": [
+      "NH₃"
+    ]
+  },
+  {
+    "name": "CT-400",
+    "특징": [
+      "- 화학반응을 이용하여 완벽한 처리",
+      "- 부수적으로 발생하는 유해가스 없음",
+      "- 면속도가 큰 경우에도 탁월한 성능을 보임",
+      "- 장시간 사용이 가능함"
+    ]
+  },
+  {
+    "name": "CT-400",
+    "적용분야": [
+      "- 반도체 생산 공장",
+      "- 화학 공장",
+      "- 디스플레이 생산 공장"
+    ]
+  },
+  {
+    "name": "CT-400",
+    "제품형태": [
+      "펠렛(Pellet), 구형(Ball type) 2 ~ 5 mm"
+    ]
+  },
+  {
+    "name": "NF (Non-flammable) 흡착제",
+    "제거대상가스": [
+      "VOCs"
+    ]
+  },
+  {
+    "name": "NF (Non-flammable) 흡착제",
+    "특징": [
+      "- 불에 붙지 않으며 폭발 위험이 없음",
+      "- 넓은 비표면적 (BET > 500 m2/g)",
+      "- 여러가지 크기의 펠렛 및 구형 등 다양한 형태 적용가능"
+    ]
+  },
+  {
+    "name": "NF (Non-flammable) 흡착제",
+    "적용분야": [
+      "- 화학 공장",
+      "- 페인트 제조 회사",
+      "- 반도체, 평판화면 (OLED) 제조 공정"
+    ]
+  },
+  {
+    "name": "NF (Non-flammable) 흡착제",
+    "제품형태": [
+      "펠렛(Pellet), 구형(Ball type) 2 ~ 5 mm"
+    ]
+  },
+  {
+    "name": "CTO honeycomb catalyst",
+    "제거대상가스": [
+      "유기화합물"
+    ]
+  },
+  {
+    "name": "Guard catalyst",
+    "제거대상가스": [
+      "Sulfur (SO₂, SO₃ 등)"
+    ]
+  },
+  {
+    "name": "Guard catalyst",
+    "특징": [
+      "- 낮은 온도에서 탁월한 성능",
+      "- 100% 높은 효율",
+      "- 높은 촉매 수명"
+    ]
+  },
+  {
+    "name": "Guard catalyst",
+    "적용분야": [
+      "- 화학 공장",
+      "- 탈황 공정"
+    ]
+  },
+  {
+    "name": "Guard catalyst",
+    "제품형태": [
+      "Pellet"
+    ]
+  },
+  {
+    "name": "PFC (perfluoro-compound) catalyst",
+    "제거대상가스": [
+      "PFCs (CF₄, NF₃, SF₄ 등)"
+    ]
+  },
+  {
+    "name": "CTO honeycomb catalyst",
+    "특징": [
+      "- 저온에서 탁월한 성능 ( > 325oC)",
+      "- 높은 촉매 수명",
+      "- 높은 안정성"
+    ]
+  },
+  {
+    "name": "CTO honeycomb catalyst",
+    "적용분야": [
+      "- 화학 공장",
+      "- 반도체, 평판화면 (OLED) 제조 공정"
+    ]
+  },
+  {
+    "name": "CTO honeycomb catalyst",
+    "제품형태": [
+      "Honeycomb, Pellet"
+    ]
+  },
+  {
+    "name": "CT-570",
+    "제거대상가스": [
+      "PH₃ AsH₃"
+    ]
+  },
+  {
+    "name": "CT-570",
+    "특징": [
+      "- 화학반응을 이용하여 완벽한 처리",
+      "- 부수적으로 발생하는 유해가스 없음",
+      "- 면속도가 큰 경우에도 탁월한 성능을 보임",
+      "- 장시간 사용 가능"
+    ]
+  },
+  {
+    "name": "CT-570",
+    "적용분야": [
+      "- 반도체 생산 공장"
+    ]
+  },
+  {
+    "name": "CT-570",
+    "제품형태": [
+      "펠렛(Pellet)"
+    ]
+  },
+  {
+    "name": "PFC (perfluoro-compound) catalyst",
+    "특징": [
+      "- 지구 온난화 배출가스 제거 (99% 이상)",
+      "- 불산 저항력 탁월",
+      "- 높은 열 안정성",
+      "- 유지 관리 용이"
+    ]
+  },
+  {
+    "name": "PFC (perfluoro-compound) catalyst",
+    "적용분야": [
+      "- 반도체 생산 공정",
+      "- LCD 제조 공정"
+    ]
+  },
+  {
+    "name": "PFC (perfluoro-compound) catalyst",
+    "제품형태": [
+      "펠렛(Pellet), 구형(Ball type) 2 ~ 5 mm"
+    ]
+  }
 ]
